@@ -20,11 +20,11 @@ Cmd 12: git checkout master (switched to master branch)
 Cmd 13: git merge branchName ( when you are in master branch then you can use it to merge your branch with master)
 Cmd 14: git checkout -b branchName ( branch is created and switched to this branch)
 
-
-Cmd 15: git clone
+<!-- git cheet sheet 2 -->
+Cmd 1: git clone
 check notes in copy (use source control in VS Code to stage( click '+' button) the cloned item)
-Cmd 15: git commit -m "Add your comment"
-Cmd 15: git push
+Cmd 2: git commit -m "Add your comment"
+Cmd 3: git push
 
 
 
